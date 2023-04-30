@@ -9,3 +9,4 @@
 ## 使用方法
 
 1. 
+<a download="capcutZhTimedTextConvert.vbs" href="https://raw.githubusercontent.com/MaoHuPi/capcutZhTimedTextConvert/main/capcutZhTimedTextConvert.vbs">下載</a>
