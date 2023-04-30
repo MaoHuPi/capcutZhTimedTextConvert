@@ -8,5 +8,4 @@
 
 ## 使用方法
 
-1. 
-<a download="capcutZhTimedTextConvert.vbs" href="https://github.com/MaoHuPi/capcutZhTimedTextConvert/blob/main/capcutZhTimedTextConvert.vbs">下載</a>
+1. 點擊[連結](https://raw.githubusercontent.com/MaoHuPi/capcutZhTimedTextConvert/main/capcutZhTimedTextConvert.vbs target="_blank")後，以新分頁開啟「capcutZhTimedTextConvert.vbs」
